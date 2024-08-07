@@ -1,0 +1,9 @@
+*.pth
+*.pt
+generated-images*
+generated-images*/*.*
+checkpoints*
+checkpoints*/*.*
+saved-images/*.*
+__pycache__
+__pycache__/*
